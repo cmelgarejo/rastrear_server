@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RASTREO_Lib.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="mapserverIP" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">192.168.1.2</Value>
+    </Setting>
+    <Setting Name="mapserverPORT" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">6200</Value>
+    </Setting>
+    <Setting Name="mapserverON" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="RS_ServerCNNSTR" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Server=127.0.0.1;Port=6543;User Id=rastreo_admin;Password=rastreoadmin1341;Database=rastreo_system;CommandTimeout=120;timeout=100;MaxPoolSize=1024;</Value>
+    </Setting>
+    <Setting Name="MailServer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">routan.websitewelcome.com</Value>
+    </Setting>
+    <Setting Name="MailPort" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">26</Value>
+    </Setting>
+    <Setting Name="MailUser" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">info@rastreo.com.py</Value>
+    </Setting>
+    <Setting Name="MailPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">*.vv)liwTy$[</Value>
+    </Setting>
+    <Setting Name="MailFrom" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">info@rastreo.com.py</Value>
+    </Setting>
+    <Setting Name="MailSSL" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

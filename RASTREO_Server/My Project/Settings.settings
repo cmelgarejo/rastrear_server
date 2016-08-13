@@ -1,0 +1,106 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="RS_ServerCNNSTR" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Server=127.0.0.1;Port=5432;User Id=pgsql;Password=pgsql;Database=rastreo_system
+</Value>
+    </Setting>
+    <Setting Name="RS_PuertosUDP" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;773&lt;/string&gt;
+  &lt;string&gt;777&lt;/string&gt;
+  &lt;string&gt;1337&lt;/string&gt;
+  &lt;string&gt;4095&lt;/string&gt;
+  &lt;string&gt;4097&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="RS_PuertosTCP" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;15015&lt;/string&gt;
+  &lt;string&gt;15016&lt;/string&gt;
+  &lt;string&gt;15017&lt;/string&gt;
+  &lt;string&gt;15018&lt;/string&gt;
+  &lt;string&gt;15019&lt;/string&gt;
+  &lt;string&gt;15020&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="RS_ServerIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="RS_ServerPORT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">6432</Value>
+    </Setting>
+    <Setting Name="RS_ServerUSERDB" Type="System.String" Scope="User">
+      <Value Profile="(Default)">rastreo_admin</Value>
+    </Setting>
+    <Setting Name="RS_ServerPASSDB" Type="System.String" Scope="User">
+      <Value Profile="(Default)">rastreoadmin1341</Value>
+    </Setting>
+    <Setting Name="RS_Server_DB" Type="System.String" Scope="User">
+      <Value Profile="(Default)">rastreo_system</Value>
+    </Setting>
+    <Setting Name="RS_Server_useUDP" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="RS_Server_useTCP" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="RS_Server_reenvio" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="RS_Server_IPReenvio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="RS_Server_PortReenvio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1510</Value>
+    </Setting>
+    <Setting Name="RS_Server_ProtocoloIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">UDP</Value>
+    </Setting>
+    <Setting Name="mailSERVER" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mail1013.opentransfer.com</Value>
+    </Setting>
+    <Setting Name="mailUSER" Type="System.String" Scope="User">
+      <Value Profile="(Default)">info@rastreo.com.py</Value>
+    </Setting>
+    <Setting Name="mailPASS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">inforastreo</Value>
+    </Setting>
+    <Setting Name="mailFROM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">info@rastreo.com.py</Value>
+    </Setting>
+    <Setting Name="g_EsperaSegundos" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="g_InstaladoComoServicio" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="g_MapServerIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.1.2</Value>
+    </Setting>
+    <Setting Name="g_MapServerPORT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">6200</Value>
+    </Setting>
+    <Setting Name="g_Mensaje_Inactivos" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Rayos y centellas! Puertos Inactivos! Coños!</Value>
+    </Setting>
+    <Setting Name="g_Mensajes_Eventos" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="mailPORT" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">25</Value>
+    </Setting>
+    <Setting Name="g_DNSWeb" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.1.2:8080</Value>
+    </Setting>
+    <Setting Name="mailSSL" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="TCPPatch" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

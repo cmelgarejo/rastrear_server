@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RASTREOmw.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DefaultCNNSTR" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Server=192.168.1.3;Port=5432;User Id=rastreo_admin;Password=rastreoadmin1341;Database=rastreo_system;CommandTimeout=120;timeout=100;MaxPoolSize=1024;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
