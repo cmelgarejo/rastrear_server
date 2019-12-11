@@ -1,1 +1,2 @@
-# TCP/UDP Server for GPS devices [Code from 2010]
+# TCP/UDP Server for GPS devices 
+Code from 2010 C#
